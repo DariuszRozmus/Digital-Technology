@@ -1,1 +1,1 @@
-# Digital-Technology
+# Digital-Technology AGH UST
