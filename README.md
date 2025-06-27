@@ -1,1 +1,2 @@
-# Digital-Technology AGH UST
+# Digital-Technology course
+AGH UST 2025
